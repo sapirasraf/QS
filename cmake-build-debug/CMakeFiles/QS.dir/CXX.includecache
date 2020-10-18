@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sapir/CLionProjects/QS/Encode.h
+string
+-
+Series.h
+C:/Users/Sapir/CLionProjects/QS/Series.h
+
+C:/Users/Sapir/CLionProjects/QS/Series.h
+cmath
+-
+
+C:/Users/Sapir/CLionProjects/QS/main.cpp
+iostream
+-
+Series.h
+C:/Users/Sapir/CLionProjects/QS/Series.h
+Encode.h
+C:/Users/Sapir/CLionProjects/QS/Encode.h
+cstdlib
+-
+ctime
+-
+algorithm
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string
+-
+cmath
+-
+
